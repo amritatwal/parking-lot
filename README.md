@@ -2,10 +2,10 @@ This a is a parking lot system written in Python using OOP.
 
 Core features:
 
-• The parking lot has multiple levels. Each level has multiple rows of spots. 
-• The parking lot has motorcycle spots and car spots. 
-• A motorcycle can park in any empty spot that is empty. 
-• A car can only park in a single car spot that is empty. 
+- The parking lot has multiple levels. Each level has multiple rows of spots. 
+- The parking lot has motorcycle spots and car spots. 
+- A motorcycle can park in any empty spot that is empty. 
+- A car can only park in a single car spot that is empty. 
 
 
 Core requirements:
